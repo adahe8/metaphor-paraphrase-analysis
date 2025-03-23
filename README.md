@@ -1,13 +1,16 @@
 # metaphor-paraphrase-analysis
 Comparing the metaphor generation capabilities of modern transformer architecture LLMs.
 
+This project is more of an assessment of existing deep learning applications than a code-based project. We obtained confirmation from the professor that code quality and original code was not critical to this project, so long as the analysis is thorough and the results are meaningful, which we believe is the case.
+
 The generated data folder contains the paraphrases for free and controlled metaphor generation tasks produced by each of our assessed LLMs: GPT, DeepSeek, and Gemini.
 
 For the full evaluation data and averaging calculations, see [this spreadsheet](https://docs.google.com/spreadsheets/d/1wWWiYCKBsuu6W7xqfe4ig0MYfHbth_7Ea9uCs5XQP0A/edit?usp=sharing).
 
 Read our [paper](https://docs.google.com/document/d/1knITo7v485cHu_8S01BcLktkLiPV_2kfaCEj2x31ydY/edit?usp=sharing) for the analysis of results and conclusions!
 
-Paraphrase seed sentence data taken from
+Paraphrase seed sentence data taken from  
+
 @inproceedings{stowe-etal-2021-exploring,
     title = "Exploring Metaphoric Paraphrase Generation",
     author = "Stowe, Kevin  and
